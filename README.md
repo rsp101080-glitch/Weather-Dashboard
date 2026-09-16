@@ -1,0 +1,1 @@
+Weather Dashboard is a Python desktop application built with Tkinter that allows users to search for a city and view current weather information such as temperature, humidity, wind speed, and weather conditions using the OpenWeather API.
