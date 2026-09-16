@@ -1,0 +1,5 @@
+•	Weather API 
+•	Temperature 
+•	Humidity 
+•	Wind 
+•	Multi-city support 
